@@ -9,7 +9,8 @@ An AI agent that learns to play the classic Snake game using Deep Q-Learning (DQ
 - Training visualization with real-time plots
 - Model saving and loading functionality
 - Adjustable hyperparameters for experimentation
-  
+
+FILE STRUCTURE
 ```
 snake-ai/
 ├── agent.py          # AI agent implementation
