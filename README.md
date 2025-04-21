@@ -1,7 +1,5 @@
 # Snake AI using Deep Q-Learning
 
-![Snake Game Screenshot](snake_game_screenshot.png) *(You can add a screenshot later)*
-
 An AI agent that learns to play the classic Snake game using Deep Q-Learning (DQN) with PyTorch.
 
 ## Features
