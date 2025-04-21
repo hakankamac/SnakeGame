@@ -22,3 +22,9 @@ snake-ai/
 └── model/            # Saved model directory
     └── model.pth     # Trained model weights
 ```
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/snake-ai.git
+   cd snake-ai
